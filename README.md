@@ -1,3 +1,10 @@
+# Exploratory Data Analysis
+## Plotting Assignment
+
+This repository was initially forked from Roger Peng, the instructor for  the [Exploratory Data Analysis Class](https://www.coursera.org/course/exdata) of Coursera's [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1). The objective of the assignment was to follow the instructions set out below.
+
+---
+
 ## Introduction
 
 This assignment uses data from
